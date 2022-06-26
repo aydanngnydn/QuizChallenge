@@ -8,44 +8,4 @@ public class Answer
     {
         this.description = _description;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    /*
-    private string description;
-    private bool correct;
-
-    public Answer(string _description, bool _correct)
-    {
-        this.description = _description;
-        this.correct = _correct;
-    }
-    string getDescription()
-    {
-        return description;
-    }
-    bool isCorrect()
-    {
-        return correct;
-    }*/
 }
